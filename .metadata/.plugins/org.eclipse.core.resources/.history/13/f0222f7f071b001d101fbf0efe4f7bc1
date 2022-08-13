@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.config.swagger;
+
+public class SwaggerConfig {
+
+}

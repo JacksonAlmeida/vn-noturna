@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.resources.exceptions;
+
+public class StandardError {
+
+}

@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.services.exceptions;
+
+public class ResourceNotFoundException {
+
+}

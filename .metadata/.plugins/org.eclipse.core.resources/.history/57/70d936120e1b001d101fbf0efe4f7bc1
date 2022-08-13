@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.repository;
+
+public class RoleRepository {
+
+}

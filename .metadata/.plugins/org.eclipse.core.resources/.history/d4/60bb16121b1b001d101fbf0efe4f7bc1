@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.dto;
+
+public class RoleDTO {
+
+}

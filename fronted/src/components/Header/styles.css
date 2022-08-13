@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+header img {
+    height: 50px;
+    width: 50px;
+}

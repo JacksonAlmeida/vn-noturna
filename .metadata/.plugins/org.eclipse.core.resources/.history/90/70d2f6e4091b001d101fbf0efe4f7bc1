@@ -1,0 +1,5 @@
+package com.sunflower.vnnoturna.entities;
+
+public class Role {
+
+}

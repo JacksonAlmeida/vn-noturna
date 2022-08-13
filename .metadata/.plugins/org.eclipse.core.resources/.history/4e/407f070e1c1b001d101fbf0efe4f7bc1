@@ -1,0 +1,39 @@
+package com.sunflower.vnnoturna.dto;
+
+import com.sunflower.vnnoturna.entities.Role;
+
+public class RoleDTO {
+
+	private long id;
+	private String roleName;
+	
+	public RoleDTO() {
+		
+	}
+	
+	public RoleDTO(Role obj) {
+		roleName = obj.getRoleName();
+	}
+	
+	public RoleDTO1(Role obj) {
+		id = obj.getId();
+		roleName = obj.getRoleName();
+	}
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getRoleName() {
+		return roleName;
+	}
+
+	public void setRoleName(String roleName) {
+		this.roleName = roleName;
+	}
+	
+}
